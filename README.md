@@ -1,2 +1,3 @@
-# mysite
- a first website
+#App Name and Short Description
+#Preliminary Data Model
+#Preliminary Functional Areas
