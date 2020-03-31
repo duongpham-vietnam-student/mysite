@@ -1,3 +1,3 @@
-# App Name and Short Description
-# Preliminary Data Model
-# Preliminary Functional Areas
+# 1.App Name and Short Description
+# 2.Preliminary Data Model
+# 3.Preliminary Functional Areas
